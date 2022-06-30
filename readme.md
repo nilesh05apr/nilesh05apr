@@ -6,7 +6,7 @@
 
 + Undergrad at Indian Institute of technology, Kharagpur
 + I love talking about Software Architecture and System Design   
-+ I am learning Microservices Architecture  and MVC design pattern   
++ I am learning Microservices  Architecture and Design patterns   
 + Machine Learning Engineer @ChiSquareX Technologies  
 + Email : nileshdas.iitkgp@gmail.com  
 
