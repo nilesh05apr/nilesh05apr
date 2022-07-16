@@ -53,4 +53,4 @@
 </p>
 
 
-> Thanks to <a href="https://github.com/alexandresanlim">alexandresanlim</a> for <a href="https://github.com/alexandresanlim/Badges4-README.md-Profile">Badges4-README.md-Profile</a> and <a href="https://github.com/anuraghazra"> Anurag Hazra </a> for <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a>
+> Thanks to <a href="https://github.com/tanpfun">tandpfun</a> for <a href="https://github.com/tandpfun/skill-icons">skill-icons</a> and <a href="https://github.com/anuraghazra"> Anurag Hazra </a> for <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a>
