@@ -34,7 +34,7 @@
 ```diff
 +My Skills
 ```
-[![My Skills](https://skills.thijs.gg/icons?i=python,c,cpp,java,typescript,javascript,pytorch,tensorflow,flask,django,aws,firebase,react,nodejs,redis,mongodb,git,linux&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=python,c,cpp,java,go,javascript,pytorch,tensorflow,flask,django,aws,firebase,react,nodejs,redis,mongodb,git,linux&theme=light)](https://skills.thijs.gg)
 
 <!--
 [![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,flask,django,aws,firebase&theme=light)](https://skillicons.dev)
