@@ -47,7 +47,7 @@
 </br></br>
 <p float="left">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=nilesh05apr&show_icons=true&theme=vue" />
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilesh05apr&theme=vue" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilesh05apr&hide=jupyter%20notebook,html&theme=vue" />
 </p>
 
 <!--
