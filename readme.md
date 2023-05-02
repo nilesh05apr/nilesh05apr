@@ -46,15 +46,13 @@
 
 </br></br>
 <p float="left">
-  <img height="200em" src="https://github-readme-stats-three-umber-19.vercel.app/api?username=nilesh05apr&count_private=true&show_icons=true&theme=vue" />
-  <img height="200em" src="https://github-readme-stats-three-umber-19.vercel.app/api/top-langs/?username=nilesh05apr&hide=jupyter%20notebook,html&theme=vue" />
+  <img height="200em" src="https://github-readme-stats-7wp4.vercel.app/api?username=nilesh05apr&count_private=true&show_icons=true&theme=vue" />
+  <img height="200em" src="https://github-readme-stats-7wp4.vercel.app/api/top-langs/?username=nilesh05apr&hide=jupyter%20notebook,html&theme=vue" />
 </p>
 
-<!--
-<p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nilesh05apr&theme=vue" />
-</p>
--->
+
+
+
 
 
 > Thanks to <a href="https://github.com/tanpfun">tandpfun</a> for <a href="https://github.com/tandpfun/skill-icons">skill-icons</a> and <a href="https://github.com/anuraghazra"> Anurag Hazra </a> for <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a>
