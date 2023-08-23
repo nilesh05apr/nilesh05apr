@@ -46,8 +46,8 @@
 
 </br></br>
 <p float="left">
-  <img height="200em" src="https://github-readme-stats-7wp4.vercel.app/api?username=nilesh05apr&count_private=true&show_icons=true&theme=vue" />
-  <img height="200em" src="https://github-readme-stats-7wp4.vercel.app/api/top-langs/?username=nilesh05apr&hide=jupyter%20notebook,html&theme=vue" />
+  <img height="200em" src="http://github-readme-stats-three-umber-19.vercel.app//api?username=nilesh05apr&count_private=true&show_icons=true&theme=vue" />
+  <img height="200em" src="http://github-readme-stats-three-umber-19.vercel.app//api/top-langs/?username=nilesh05apr&hide=jupyter%20notebook,html&theme=vue" />
 </p>
 
 
