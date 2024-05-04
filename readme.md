@@ -7,7 +7,7 @@
 + Undergrad at Indian Institute of Technology, Kharagpur
 + I love talking about Software Architecture and System Design   
 + I am learning Microservices  Architecture and Design patterns   
-+ Ex-NLP @ Zocket | MLE @ChiSquareX Technologies  
++ Ex-NLP @ Zocket | Quant Research @ InCred Alternatives | MLE @ChiSquareX Technologies  
 + Email: nileshdas.iitkgp@gmail.com  
 
 ```
