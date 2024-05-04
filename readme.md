@@ -3,12 +3,12 @@
 </br>
 
 ```diff
-
-+ Undergrad at Indian Institute of technology, Kharagpur
++ SWE Intern @Tower Research Capital
++ Undergrad at Indian Institute of Technology, Kharagpur
 + I love talking about Software Architecture and System Design   
 + I am learning Microservices  Architecture and Design patterns   
-+ Ex-Machine Learning Engineer @ChiSquareX Technologies  
-+ Email : nileshdas.iitkgp@gmail.com  
++ Ex-NLP @ Zocket | MLE @ChiSquareX Technologies  
++ Email: nileshdas.iitkgp@gmail.com  
 
 ```
 </br>
