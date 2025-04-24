@@ -3,11 +3,11 @@
 </br>
 
 ```
-+ Currently Backend/Test @ AWSMO.ai (building notification service for core backend, unit, ML, and integration tests)
++ Currently Backend/Test @ AWSMO.ai (building notification service for health checks/unit/ml/integration tests)
 + Ex-SWE Intern @Tower Research Capital | Quant Research @ InCred Alternatives | MLE @ChiSquareX Technologies
-+ I am interested in machine learning and NLP techniques, their use cases for the automation of boring and repetitive tasks.
-+ I like to explore research ideas and implement stuff from scratch using C++ (still learning) and Python
-+ I like to discuss ideas about math puzzles, system designs, optimizations, machine learning, and quantitative models for finance.  
++ I am interested in machine learning and NLP techniques, automating boring and repetitive tasks.
++ I like to research ideas and implement stuff from scratch using C++ (still learning) and Python
++ I like math puzzles, system designs, optimizations, machine learning, and quantitative finance.  
 + Email: nileshdas.iitkgp@gmail.com  
 
 ```
